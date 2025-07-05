@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testcodePushAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f471c835f2a21567faf18dad8624362c533d451f")]
 [assembly: System.Reflection.AssemblyProductAttribute("testcodePushAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testcodePushAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
