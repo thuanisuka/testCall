@@ -1,0 +1,128 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+bin/
+obj/
+out/
+artifacts/
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js dependencies and cache
+node_modules/
+
+# dotenv environment variables
+.env
+.env.*
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Debug/Release folders
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Logs
+*.log
+[Ll]og/
+
+# Static files
+wwwroot/*
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Database files
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
+test-*.sqlite
+
+# Code coverage
+*.coverage
+*.coveragexml
+
+# NCrunch
+*.ncrunch*
+.*crunch*
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# StyleCop
+StyleCopReport.xml
+
+# Backup & report files
+Backup*/
+UpgradeLog*.xml
+TestResult.xml
+buildlog.htm
+*_i.c
+*_p.c
+*_h.h
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Temporary ASP.NET Files
+Temporary ASP.NET Files/
+
+# Publish folder
+publish/
+
+# Test results
+TestResults/
+
+# DotCover
+*.dotCover
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Docker files (optional)
+docker-compose.override.yml
+docker-compose.*.yml
+
+# User secrets (ASP.NET Core)
+**/secrets.json
+
+# Git folder config
+.git/
+
+# Không push appsettings.json
+appsettings.json
