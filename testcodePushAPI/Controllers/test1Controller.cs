@@ -25,6 +25,11 @@ namespace testcodePushAPI.Controllers
             {
                 return BadRequest("The product of the numbers cannot be negative.");
             }
+            int number5 = Number1 / Number2;
+            if (number5 < 0)
+            {
+                return BadRequest("The division result cannot be negative.");
+            }
             return NoContent();
         }
     }
