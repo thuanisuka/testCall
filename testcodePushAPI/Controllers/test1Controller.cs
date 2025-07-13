@@ -29,11 +29,11 @@ namespace testcodePushAPI.Controllers
             if (number5 < 0)
             {
                 return BadRequest("The division result cannot be negative.");
-            }
+            
             if (Number2 == number5)
             {
                 number 1 = Number3 + Number2;
-            }
+            
             return NoContent();
         }
     }
