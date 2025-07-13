@@ -10,31 +10,12 @@ namespace testcodePushAPI.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int Number1, int Number2)
         {
-            int Number3 = Number1 + Number2;
-            if (Number3 < 0)
-            {
-                return BadRequest("The sum of the numbers cannot be negative.");
-            }
-            int result = Number1 - Number2;
-            if (result < 0)
-            {
-                return BadRequest("The result of the subtraction cannot be negative.");
-            }
-            int number = Number1 * Number2;
-            if (number < 0)
-            {
-                return BadRequest("The product of the numbers cannot be negative.");
-            }
-            int number5 = Number1 / Number2;
-            if (number5 < 0)
-            {
-                return BadRequest("The division result cannot be negative.");
-            
-            if (Number2 == number5)
-            {
-                number 1 = Number3 + Number2;
-            
-            return NoContent();
+                    int a = 1;
+        int b = 0;
+        int c = a / b; // division by zero — bug Sonar bắt được
+
+        return Ok(c);            
+
         }
     }
 }
