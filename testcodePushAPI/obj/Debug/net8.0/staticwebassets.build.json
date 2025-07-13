@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4/4zEOSTpglb7WTmAHDmTFOF5ax74B6y5Yq6zlZVxrE=",
+  "Source": "testcodePushAPI",
+  "BasePath": "_content/testcodePushAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
