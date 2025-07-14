@@ -58,8 +58,7 @@
               "RelativeToolTip": "testcodePushAPI\\Models\\BadCode.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:22:26.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:22:26.181Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "testcodePushAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:18:55.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:18:55.19Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T14:37:52.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T14:37:52.628Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "testcodePushAPI\\Controllers\\test1Controller.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T12:28:50.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T12:28:50.227Z"
             }
           ]
         }

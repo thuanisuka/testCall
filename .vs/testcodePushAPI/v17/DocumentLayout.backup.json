@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\code\\test\\testcodePushAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\bugexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\bugexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\test1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\test1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\bugexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\bugexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\test1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\test1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BadCode.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\BadCode.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Models\\BadCode.cs",
               "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\BadCode.cs",
               "RelativeToolTip": "testcodePushAPI\\Models\\BadCode.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:22:26.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:22:26.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\WeatherForecastController.cs",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "testcodePushAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:18:55.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:18:55.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Program.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Program.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "testcodePushAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:18:25.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:18:25.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Forecast.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\Forecast.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Models\\Forecast.cs",
@@ -97,12 +94,11 @@
               "RelativeToolTip": "testcodePushAPI\\Models\\Forecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T22:18:12.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T22:18:12.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Hardcoded credentials (S2068).cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
@@ -110,30 +106,30 @@
               "RelativeToolTip": "testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T14:37:52.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T14:37:52.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BugExample.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\BugExample.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\BugExample.cs",
               "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\BugExample.cs",
               "RelativeToolTip": "testcodePushAPI\\Controllers\\BugExample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T13:31:57.663Z"
+              "WhenOpened": "2025-07-13T13:31:57.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "test1Controller.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\test1Controller.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\test1Controller.cs",
               "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\test1Controller.cs",
               "RelativeToolTip": "testcodePushAPI\\Controllers\\test1Controller.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T12:28:50.227Z"
             }
