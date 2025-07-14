@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\code\\test\\testcodePushAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\models\\badcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\models\\forecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|d:\\code\\test\\testcodepushapi\\testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE05970-B683-4B42-B0CC-017A462CC523}|testcodePushAPI\\testcodePushAPI.csproj|solutionrelative:testcodepushapi\\controllers\\hardcoded credentials (s2068).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +51,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BadCode.cs",
+              "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\BadCode.cs",
+              "RelativeDocumentMoniker": "testcodePushAPI\\Models\\BadCode.cs",
+              "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\BadCode.cs",
+              "RelativeToolTip": "testcodePushAPI\\Models\\BadCode.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:22:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "testcodePushAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:18:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Program.cs",
+              "RelativeDocumentMoniker": "testcodePushAPI\\Program.cs",
+              "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Program.cs",
+              "RelativeToolTip": "testcodePushAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:18:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forecast.cs",
+              "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\Forecast.cs",
+              "RelativeDocumentMoniker": "testcodePushAPI\\Models\\Forecast.cs",
+              "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Models\\Forecast.cs",
+              "RelativeToolTip": "testcodePushAPI\\Models\\Forecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:18:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Hardcoded credentials (S2068).cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "ToolTip": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
               "RelativeToolTip": "testcodePushAPI\\Controllers\\Hardcoded credentials (S2068).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T14:37:52.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BugExample.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\BugExample.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\BugExample.cs",
@@ -59,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "test1Controller.cs",
               "DocumentMoniker": "D:\\code\\test\\testcodePushAPI\\testcodePushAPI\\Controllers\\test1Controller.cs",
               "RelativeDocumentMoniker": "testcodePushAPI\\Controllers\\test1Controller.cs",
