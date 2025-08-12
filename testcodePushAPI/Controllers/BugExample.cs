@@ -5,10 +5,19 @@
         // Dead code (unused private field)
         private int unusedValue = 123;
 
-        // Bad naming convention
+        // Bad naming convention (public field, lowercase)
         public int a;
 
-        // Method too long (code smell)
+        // Hardcoded credentials (security hotspot)
+        public string ConnectionString = "Server=localhost;User Id=admin;Password=123456;";
+
+        // Magic number
+        public int CalculatePrice(int quantity)
+        {
+            return quantity * 999; // magic number
+        }
+
+        // Method too long, deep nesting, null dereference, magic numbers
         public void ShowBug()
         {
             string value = null;
@@ -30,6 +39,9 @@
                 }
             }
 
+            // Commented out code (bad practice)
+            // var temp = File.ReadAllText("file.txt");
+
             Console.WriteLine("End of bug demo");
         }
 
@@ -40,5 +52,22 @@
             Console.WriteLine("Duplicate");
             Console.WriteLine("Duplicate");
         }
-    }
-}
+
+        // Resource not disposed
+        public void ReadFile()
+        {
+            var fs = new FileStream("test.txt", FileMode.Open);
+            var reader = new StreamReader(fs);
+            Console.WriteLine(reader.ReadToEnd());
+            // forgot: reader.Dispose(); fs.Dispose();
+        }
+
+        // Empty catch block
+        public void IgnoreError()
+        {
+            try
+            {
+                int x = int.Parse("not_a_number");
+            }
+            catch
+            {
